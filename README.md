@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @GuspeDev
+- 👋 Hi, I’m @Ir1sDev
 - 👀 I’m interested in developing Operating Systems and Videogames
-- 🌱 I’m currently learning C and Assembly
-- 💞️ I’m looking to collaborate on TEDos
-- 📫 How to reach me: guspedev@gmail.com
-- ⛓ The rest of my links is at [linktr.ee/gusp3h](linktr.ee/gusp3h)
+- 🌱 I’m currently learning C and x86_64 Assembly
+- 💞️ I’m in love with Python and JavaScript and C#
+- 📫 How to reach me: ir1s_s@outlook.com
+- ⛓ The rest of my links is at [linktr.ee/ir1s_s](linktr.ee/ir1s_s)
 <!---
-GuspeDev/GuspeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ir1sDev/Ir1sDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
