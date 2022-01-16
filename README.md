@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ir1sDev
+- 👋 Hi, I’m [@Ir1sDev](linktr.ee/ir1s_s)
 - 👀 I’m interested in developing Operating Systems and Videogames
 - 🌱 I’m currently learning C and x86_64 Assembly
 - 💞️ I’m in love with Python and JavaScript and C#
