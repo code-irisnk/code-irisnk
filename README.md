@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@nyaambxr](https://nyaambxr.carrd.co)
-- 👀 I’m kitty nya nya nya
+- 🐱 I’m kitty nya nya nya
 - 🌱 I’m currently learning C
 - 💞️ I’m in love with Python and C#
 - 📫 How to reach me: nyaambxr@proton.me
