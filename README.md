@@ -30,7 +30,7 @@
         <li><strong>SSD</strong>: 512GB "/" btrfs, Linux RAID (256GB NVMe + 256GB SATA)</li>
         <li><strong>HDD</strong>: 1TB "/home" Seagate BarraCuda</li>
         <li><strong>GPU</strong>: NVIDIA GT 1030 <a href="https://www.youtube.com/watch?v=OF_5EKNX0Eg">(my opinion on it)</a></li>
-        <li><strong>OS</strong>: Fedora 37</li>
+        <li><strong>OS</strong>: Fedora 38</li>
         <li><strong>Windowing System</strong>: XOrg X11 (Again, F### you NVIDIA.)</li>
         <li><strong>Base SKU</strong>: Acer Aspire TC-885</li>
       </ul>
@@ -42,7 +42,7 @@
         <li><strong>RAM</strong>: 8GB (DDR4-2666)</li>
         <li><strong>SSD</strong>: 256GB "/" btrfs (NVMe)</li>
         <li><strong>GPU</strong>: Intel UHD Graphics (CML GT2)</li>
-        <li><strong>OS</strong>: Fedora 37</li>
+        <li><strong>OS</strong>: Fedora 38</li>
         <li><strong>Windowing System</strong>: Wayland (JFC!! <strong>MOBILE INTEL iGPUS</strong> CAN DO IT!!! COME ON NVIDIA!!)</li>
         <li><strong>Base SKU</strong>: Lenove IdeaPad 3 15IML05</li>
       </ul>
