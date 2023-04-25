@@ -11,7 +11,8 @@
   [![OS:Fedora 37](https://img.shields.io/badge/OS-Fedora-blue?style=flat-square&logo=fedora)](https://getfedora.org) [![OS:PixelOS 13](https://img.shields.io/badge/OS-Android13-green?style=flat-square&logo=android)](https://pixelos.net/download/sweet) [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/) [![DE:GNOME 43](https://img.shields.io/badge/DE-GNOME-blue?style=flat-square&logo=GNOME)](https://GNOME.org)
   
   [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,c,py,linux,unity,bash,ableton)](https://skillicons.dev)
-
+  [![My GitHub stats](https://readme-stats-nyaambxr.vercel.app//api?username=nyaambxr&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+  
   <img src="https://toru.kio.dev/api/v1/nyaambxr?theme=dark" alt="Last.fm Activity" />
   
   <p></p>
