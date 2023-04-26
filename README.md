@@ -26,7 +26,7 @@
     <td><div align=left><details>
 <summary><strong>"ATOM" - Desktop</strong></summary>
   <ul>
-    <li><strong>CPU</strong>: Intel Core i5-8400 (6C, 6T, 4.0GHz, x86_64-v3)</li>
+    <li><strong>CPU</strong>: i5-8400 (6C, 6T, 4.0GHz, x86_64-v3)</li>
     <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
     <li><strong>SSD</strong>: 512GB "/" btrfs, Linux RAID (256GB NVMe + 256GB SATA)</li>
     <li><strong>HDD</strong>: 1.5TB "/home" btrfs, multi-disk (1TB Seagate BarraCuda + 500GB White Label Seagate)</li>
@@ -39,7 +39,7 @@
     <td>    <div align=left><details>
       <summary><strong>"ektron" - Laptop</strong></summary>
       <ul>
-        <li><strong>CPU</strong>: Intel Core i3-10110U (4C, 4T, 4.1GHz, x86_84-v3)</li>
+        <li><strong>CPU</strong>: i3-10110U (4C, 4T, 4.1GHz, x86_84-v3)</li>
         <li><strong>RAM</strong>: 8GB (DDR4-2666)</li>
         <li><strong>SSD</strong>: 256GB "/" btrfs (NVMe)</li>
         <li><strong>HDD</strong>: N/A</li>
