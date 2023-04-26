@@ -24,29 +24,35 @@
 <thead>
   <tr>
     <td><div align=left><details>
-<summary><strong>"ATOM" - Desktop</strong></summary>
+<summary><strong>ATOM.local - Desktop</strong></summary>
+  <p></p>
   <ul>
     <li><strong>CPU</strong>: i5-8400 (6C, 6T, 4.0GHz, x86_64-v3)</li>
-    <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
-    <li><strong>SSD</strong>: 512GB "/" btrfs, Linux RAID (256GB NVMe + 256GB SATA)</li>
-    <li><strong>HDD</strong>: 1.5TB "/home" btrfs, multi-disk (1TB Seagate BarraCuda + 500GB White Label Seagate)</li>
     <li><strong>GPU</strong>: NVIDIA GT 1030</li>
-    <li><strong>OS</strong>: Fedora 38</li>
-    <li><strong>Windowing System</strong>: XOrg X11</li>
-    <li><strong>Base SKU</strong>: Acer Aspire TC-885</li>
+    <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
+    <p></p>
+    <li><strong>SSD</strong>: 512GB "/" Linux RAID (256GB + 256GB)</li>
+    <li><strong>HDD</strong>: 1.5TB "/home" btrfs multi-disk (1TB + 500GB)</li>
+    <p></p>
+    <li><strong>OS</strong>: Fedora 38 on XOrg X11</li>
+    <p></p>
+    <li><strong>SKU</strong>: Acer Aspire TC-885</li>
       </ul></div>
 </details></td>
-    <td>    <div align=left><details>
-      <summary><strong>"ektron" - Laptop</strong></summary>
+    <td><div align=left><details>
+      <summary><strong>ektron.local - Laptop</strong></summary>
+      <p></p>
       <ul>
         <li><strong>CPU</strong>: i3-10110U (4C, 4T, 4.1GHz, x86_84-v3)</li>
+        <li><strong>GPU</strong>: Intel UHD 630 CML GT2</li>
         <li><strong>RAM</strong>: 8GB (DDR4-2666)</li>
-        <li><strong>SSD</strong>: 256GB "/" btrfs (NVMe)</li>
+        <p></p>
+        <li><strong>SSD</strong>: 256GB "/"</li>
         <li><strong>HDD</strong>: N/A</li>
-        <li><strong>GPU</strong>: Intel UHD Graphics (CML GT2)</li>
-        <li><strong>OS</strong>: Fedora 38</li>
-        <li><strong>Windowing System</strong>: Wayland</li>
-        <li><strong>Base SKU</strong>: Lenove IdeaPad 3 15IML05</li>
+        <p></p>
+        <li><strong>OS</strong>: Fedora 38 on Wayland</li>
+        <p></p>
+        <li><strong>SKU</strong>: Lenovo IdeaPad 3 15IML05</li>
       </ul></div>
 </td>
   </tr>
