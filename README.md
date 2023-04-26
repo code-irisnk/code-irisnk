@@ -32,7 +32,7 @@
     <li><strong>HDD</strong>: 1.5TB "/home" btrfs, multi-disk (1TB Seagate BarraCuda + 500GB White Label Seagate)</li>
     <li><strong>GPU</strong>: NVIDIA GT 1030</li>
     <li><strong>OS</strong>: Fedora 38</li>
-    <li><strong>Windowing System</strong>: XOrg X11 (Again, F### you NVIDIA.)</li>
+    <li><strong>Windowing System</strong>: XOrg X11</li>
     <li><strong>Base SKU</strong>: Acer Aspire TC-885</li>
       </ul></div>
 </details></td>
