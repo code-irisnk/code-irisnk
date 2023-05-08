@@ -31,10 +31,14 @@
     <li><strong>GPU</strong>: NVIDIA GT 1030</li>
     <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
     <p></p>
-    <li><strong>SSD</strong>: 512GB "/" Linux RAID (256GB + 256GB)</li>
-    <li><strong>HDD</strong>: 1.5TB "/home" btrfs multi-disk (1TB + 500GB)</li>
+    <li><strong>SSD</strong>: 265GB "/" btrfs (ZSTD)</li>
+    <li><strong>SSD 2</strong>: 265GB "/" NTFS (BitLocker)</li>
+    <li><strong>HDD</strong>: 1.5TB "/home" btrfs multi-disk (1TB + 500GB, ZSTD)</li>
     <p></p>
-    <li><strong>OS</strong>: Fedora 38 on XOrg X11</li>
+    <li><strong>OS</strong>: Garuda Linux KDE on XOrg</li>
+    <li><strong>Kernel</strong>: Linux Xanmod RT x86_64-v2</li>
+    <p></p>
+    <li><strong>OS 2</strong>: Windows 11</li>
     <p></p>
     <li><strong>SKU</strong>: Acer Aspire TC-885</li>
       </ul></div>
@@ -48,9 +52,9 @@
         <li><strong>RAM</strong>: 8GB (DDR4-2666)</li>
         <p></p>
         <li><strong>SSD</strong>: 256GB "/"</li>
-        <li><strong>HDD</strong>: N/A</li>
         <p></p>
         <li><strong>OS</strong>: Fedora 38 on Wayland</li>
+        <li><strong>Kernel</strong>: Linux Xanmod x86_64-v3</li>
         <p></p>
         <li><strong>SKU</strong>: Lenovo IdeaPad 3 15IML05</li>
       </ul></div>
