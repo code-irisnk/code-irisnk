@@ -10,7 +10,7 @@
    <img src="https://toru.kio.dev/api/v1/nyaambxr?theme=dark" alt="Last.fm Activity" />
       <p></p>
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,c,js,ts,py,linux,unity,bash,ableton)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rust,cs,c,js,ts,py,linux,unity,bash,ableton)](https://skillicons.dev)
       <p></p>
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K75M0UR)
