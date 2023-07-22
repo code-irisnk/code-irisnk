@@ -32,8 +32,8 @@
     <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
     <p></p>
     <li><strong>SSD</strong>: 265GB "/" btrfs (ZSTD)</li>
-    <li><strong>SSD 2</strong>: 265GB "/" NTFS (NTFS)</li>
-    <li><strong>HDD</strong>: 1TB "/home" btrfs multi-disk (ZSTD)</li>
+    <li><strong>SSD 2</strong>: 265GB "/" NTFS </li>
+    <li><strong>HDD</strong>: 1TB "/home" btrfs (ZSTD)</li>
     <p></p>
     <li><strong>OS</strong>: CachyOS (Arch) Linux GNOME</li>
     <li><strong>Kernel</strong>: Linux Cachy (LTO) x86_64-v3</li>
@@ -51,7 +51,7 @@
         <li><strong>GPU</strong>: Intel UHD 630 CML GT2</li>
         <li><strong>RAM</strong>: 8GB (DDR4-2666)</li>
         <p></p>
-        <li><strong>SSD</strong>: 256GB "/"</li>
+        <li><strong>SSD</strong>: 256GB "/" btrfs (ZSTD)</li>
         <p></p>
         <li><strong>OS</strong>: Garuda Linux GNOME</li>
         <li><strong>Kernel</strong>: Linux Zen x86_64-v3</li>
