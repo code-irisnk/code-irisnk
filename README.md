@@ -35,10 +35,11 @@
     <li><strong>SSD 2</strong>: 265GB "/" NTFS </li>
     <li><strong>HDD</strong>: 1TB "/home" btrfs (ZSTD)</li>
     <p></p>
-    <li><strong>OS</strong>: CachyOS (Arch) Linux GNOME</li>
+    <li><strong>OS</strong>: CachyOS (Arch Linux) w/ GNOME</li>
+    <li><strong>Repos</strong>: Garuda, CachyOS, ALHP </li>
     <li><strong>Kernel</strong>: Linux Cachy (LTO) x86_64-v3</li>
     <p></p>
-    <li><strong>OS 2</strong>: Windows 11</li>
+    <li><strong>OS 2</strong>: Windows 11 Enterprise</li>
     <p></p>
     <li><strong>SKU</strong>: Acer Aspire TC-885</li>
       </ul></div>
@@ -53,8 +54,9 @@
         <p></p>
         <li><strong>SSD</strong>: 256GB "/" btrfs (ZSTD)</li>
         <p></p>
-        <li><strong>OS</strong>: Garuda Linux GNOME</li>
-        <li><strong>Kernel</strong>: Linux Zen x86_64-v3</li>
+        <li><strong>OS</strong>: Garuda (Arch Linux) w/ GNOME</li>
+        <li><strong>Repos</strong>: Garuda, CachyOS, ALHP </li>
+        <li><strong>Kernel</strong>: Linux Cachy (LTO) x86_64-v3</li>
         <p></p>
         <li><strong>SKU</strong>: Lenovo IdeaPad 3 15IML05</li>
       </ul></div>
