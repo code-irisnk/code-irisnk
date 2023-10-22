@@ -28,7 +28,7 @@
   <p></p>
   <ul>
     <li><strong>CPU</strong>: i5-8400 (6C, 6T, 4.0GHz, x86_64-v3)</li>
-    <li><strong>GPU</strong>: NVIDIA GT 1030</li>
+    <li><strong>GPU</strong>: NVIDIA GT 1030 (X11)</li>
     <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
     <p></p>
     <li><strong>SSD</strong>: 265GB "/" btrfs (ZSTD)</li>
@@ -39,7 +39,7 @@
     <li><strong>Repos</strong>: Garuda, CachyOS, ALHP </li>
     <li><strong>Kernel</strong>: Linux Cachy (LTO) x86_64-v3</li>
     <p></p>
-    <li><strong>OS 2</strong>: Windows 11 Enterprise</li>
+    <li><strong>OS 2</strong>: Windows [tiny]11 Enterprise</li>
     <p></p>
     <li><strong>SKU</strong>: Acer Aspire TC-885</li>
       </ul></div>
@@ -49,7 +49,7 @@
       <p></p>
       <ul>
         <li><strong>CPU</strong>: i3-10110U (4C, 4T, 4.1GHz, x86_84-v3)</li>
-        <li><strong>GPU</strong>: Intel UHD 630 CML GT2</li>
+        <li><strong>GPU</strong>: Intel UHD 630 CML GT2 (Wayland)</li>
         <li><strong>RAM</strong>: 8GB (DDR4-2666)</li>
         <p></p>
         <li><strong>SSD</strong>: 256GB "/" btrfs (ZSTD)</li>
