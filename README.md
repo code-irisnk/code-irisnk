@@ -5,7 +5,7 @@
    <img src="https://64.media.tumblr.com/c9ab63f85a80026592b4a744c34e13dd/76c42b751cbcce9e-13/s2048x3072/30ffdb2c174dd374bc55adc32ff1b6025d9e52e8.gif" width="450" alt="we stay silly :3" />
         <p></p>
 
-   [![Discord Presence](https://lanyard.cnrad.dev/api/1082796035270770698)](https://discord.com/users/1082796035270770698)
+   [![Discord Presence](https://lanyard.cnrad.dev/api/1180891471482732668)](https://discord.com/users/1180891471482732668)
   
    <img src="https://toru.kio.dev/api/v1/nyaambxr?theme=dark" alt="Last.fm Activity" />
       <p></p>
@@ -28,18 +28,13 @@
   <p></p>
   <ul>
     <li><strong>CPU</strong>: i5-8400 (6C, 6T, 4.0GHz, x86_64-v3)</li>
-    <li><strong>GPU</strong>: NVIDIA GT 1030 (X11)</li>
+    <li><strong>GPU</strong>: NVIDIA GT 1030</li>
     <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
     <p></p>
-    <li><strong>SSD</strong>: 265GB "/" btrfs (ZSTD)</li>
-    <li><strong>SSD 2</strong>: 265GB "/" NTFS </li>
-    <li><strong>HDD</strong>: 1TB "/home" btrfs (ZSTD)</li>
+    <li><strong>SSD</strong>: 265GB "C" NTFS (BitLocker)</li>
+    <li><strong>HDD</strong>: 1TB "B" NTFS</li>
     <p></p>
-    <li><strong>OS</strong>: CachyOS (Arch Linux) w/ GNOME</li>
-    <li><strong>Repos</strong>: Garuda, CachyOS, ALHP </li>
-    <li><strong>Kernel</strong>: Linux Cachy (LTO) x86_64-v3</li>
-    <p></p>
-    <li><strong>OS 2</strong>: Windows [tiny]11 Enterprise</li>
+    <li><strong>OS</strong>: Windows 11 Enterprise</li>
     <p></p>
     <li><strong>SKU</strong>: Acer Aspire TC-885</li>
       </ul></div>
@@ -49,14 +44,12 @@
       <p></p>
       <ul>
         <li><strong>CPU</strong>: i3-10110U (4C, 4T, 4.1GHz, x86_84-v3)</li>
-        <li><strong>GPU</strong>: Intel UHD 630 CML GT2 (Wayland)</li>
+        <li><strong>GPU</strong>: Intel UHD 630 CML GT2</li>
         <li><strong>RAM</strong>: 8GB (DDR4-2666)</li>
         <p></p>
-        <li><strong>SSD</strong>: 256GB "/" btrfs (ZSTD)</li>
+        <li><strong>SSD</strong>: 256GB "C" NTFS (BitLocker)</li>
         <p></p>
-        <li><strong>OS</strong>: Garuda (Arch Linux) w/ GNOME</li>
-        <li><strong>Repos</strong>: Garuda, CachyOS, ALHP </li>
-        <li><strong>Kernel</strong>: Linux Cachy (LTO) x86_64-v3</li>
+        <li><strong>OS</strong>: Windows 11 Enterprise</li>
         <p></p>
         <li><strong>SKU</strong>: Lenovo IdeaPad 3 15IML05</li>
       </ul></div>
