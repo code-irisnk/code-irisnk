@@ -10,12 +10,18 @@
    <img src="https://toru.kio.dev/api/v1/nyaambxr?theme=dark" alt="Last.fm Activity" />
       <p></p>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,c,py,linux,bash,ableton)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=idea,java,c,cs,py,linux,bash,ableton,figma,react,js,html,css,dotnet,ps,git,vscode,ai,&theme=dark&perline=6)](https://skillicons.dev)
       <p></p>
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K75M0UR)
-  
-  
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=code-irisnk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
   
 </div>
