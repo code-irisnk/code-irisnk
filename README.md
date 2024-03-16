@@ -31,7 +31,7 @@
     <li><strong>GPU</strong>: NVIDIA GT 1030</li>
     <li><strong>RAM</strong>: 16GB (DDR4-2666)</li>
     <p></p>
-    <li><strong>SSD</strong>: 265GB "C" NTFS (BitLocker)</li>
+    <li><strong>SSD</strong>: 256GB "C" NTFS (BitLocker)</li>
     <li><strong>HDD</strong>: 1TB "B" NTFS</li>
     <p></p>
     <li><strong>OS</strong>: Windows 11 Enterprise</li>
