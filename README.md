@@ -17,4 +17,4 @@
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K75M0UR)
 
   
-Follow me on <a rel="me" href="https://mstdn.plus/@irisnk">Mastodon</a>!
+Follow me on <a rel="me" href="https://village.elrant.team/@irisnk">Mastodon</a>!
